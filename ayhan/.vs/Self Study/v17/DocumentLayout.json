@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98BA7E5-8562-4E8E-899C-6368F468E368}|Reverse\\Reverse.csproj|c:\\users\\darya\\desktop\\ayhan13\\self study\\reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98BA7E5-8562-4E8E-899C-6368F468E368}|Reverse\\Reverse.csproj|solutionrelative:reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0777CED1-03B4-4FBF-BD24-B4D8ECD09A69}|Self Study\\Self Study.csproj|c:\\users\\darya\\desktop\\ayhan13\\self study\\self study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0777CED1-03B4-4FBF-BD24-B4D8ECD09A69}|Self Study\\Self Study.csproj|solutionrelative:self study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F22423-6181-4DB6-9706-1BE56DF7D560}|Square\\Square.csproj|c:\\users\\darya\\desktop\\ayhan13\\self study\\square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F22423-6181-4DB6-9706-1BE56DF7D560}|Square\\Square.csproj|solutionrelative:square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3ED8390-7C6E-4792-8CEF-0A1367BAEB45}|Welcome\\Welcome.csproj|c:\\users\\darya\\desktop\\ayhan13\\self study\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3ED8390-7C6E-4792-8CEF-0A1367BAEB45}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6F1062-5098-4BCD-9F35-36435ADB23C4}|Array\\Array.csproj|c:\\users\\darya\\desktop\\ayhan13\\self study\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6F1062-5098-4BCD-9F35-36435ADB23C4}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Reverse\\Program.cs",
+              "RelativeDocumentMoniker": "Reverse\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Reverse\\Program.cs",
+              "RelativeToolTip": "Reverse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:07:50.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:35:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Welcome\\Program.cs",
+              "RelativeDocumentMoniker": "Welcome\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Welcome\\Program.cs",
+              "RelativeToolTip": "Welcome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:44:06.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Square\\Program.cs",
+              "RelativeDocumentMoniker": "Square\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Square\\Program.cs",
+              "RelativeToolTip": "Square\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:31:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Self Study\\Program.cs",
+              "RelativeDocumentMoniker": "Self Study\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan13\\Self Study\\Self Study\\Program.cs",
+              "RelativeToolTip": "Self Study\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:20:21.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\bin\Debug\net8.0\Multiply.exe
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\bin\Debug\net8.0\Multiply.deps.json
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\bin\Debug\net8.0\Multiply.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\bin\Debug\net8.0\Multiply.dll
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\bin\Debug\net8.0\Multiply.pdb
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.dll
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\refint\Multiply.dll
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.pdb
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\Multiply.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan13\Self Study\Self Study\obj\Debug\net8.0\ref\Multiply.dll
